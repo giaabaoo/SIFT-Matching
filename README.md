@@ -1,7 +1,9 @@
 # SIFT-Matching
 ### Implement Harris corner detector in Python
-
+Detected corners 
 ![q1_2_corners](https://user-images.githubusercontent.com/54015834/168417653-05861275-1b99-48c9-89f6-e3e022c65a84.jpg)
+
+Harris corner heatmap
 ![q1_2_heatmap](https://user-images.githubusercontent.com/54015834/168417654-20aa69ec-7a89-4e59-8fdc-5840aa9534db.jpg)
 
 ### Matching similar keypoints by comparing SIFT features 
